@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", Arial, Helvetica, sans-serif;
-  background-color: #f0f4f8;
+  background-color: #afb3b3;
   color: #333;
   line-height: 1.6;
   margin: 0;
@@ -59,7 +59,7 @@ main {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: left;
   padding-inline: 20px;
   max-width: 100%;
 }
